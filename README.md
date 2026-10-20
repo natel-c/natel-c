@@ -6,7 +6,7 @@ More about me:
 
 - 🌱 In my research, I investigate the impacts of climate and land-use changes on terrestrial ecosystems, mainly forests.
 - 💻 I am a modeller excited about novel machine learning applications in environmental sciences.
-- 🛰 I’m learning remote sensing for deep learning applications in forest studies.
+- 🛰 I’m applying remote sensing for deep learning applications in forests and wildfire studies.
 - 👩‍🔬📣🌎 I am an Open Science advocate.
 
 📫 How to reach me: carolina.natel@gmail.com
